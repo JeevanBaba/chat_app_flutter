@@ -57,18 +57,13 @@ A modern, full-featured chat application built with *Flutter* and *Firebase*.
    
    flutter run
    
-
 ## Folder Structure
 
 - lib/pages/ — Main app pages (login, register, chat, settings)
 - lib/components/ — Reusable UI widgets (drawer, buttons, text fields)
 - lib/services/ — Authentication and chat services
 - lib/theme/ — Theme data and provider
-
-## Screenshots
-
-(Add your screenshots here)
-
+- 
 ## Credits
 
 - Built with [Flutter](https://flutter.dev/)
