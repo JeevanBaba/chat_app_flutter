@@ -1,3 +1,6 @@
+## Preview
+https://github.com/user-attachments/assets/ba60d967-7b16-4e17-958d-6a12cdc6b1ff
+
 # Chat App
 
 A modern, full-featured chat application built with *Flutter* and *Firebase*.
@@ -38,8 +41,6 @@ A modern, full-featured chat application built with *Flutter* and *Firebase*.
 - *State Management*
   - Uses Provider for theme and app state management
 
-## Preview
-https://github.com/user-attachments/assets/ba60d967-7b16-4e17-958d-6a12cdc6b1ff
 
 ## Getting Started
 
